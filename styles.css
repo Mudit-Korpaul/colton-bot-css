@@ -1,7 +1,9 @@
 .vfrc-launcher {
   background-color: white !important;
+  box-shadow: 4px 2px 5px rgba(0, 0, 0, 0.3) !important;
 }
 
-.text-white {
-  background-color: purple;
+.vfrc-launcher img {
+  width: 50px !important;
+  height: 50px !important;
 }
