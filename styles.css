@@ -3,6 +3,11 @@
   box-shadow: 4px 2px 5px rgba(0, 0, 0, 0.3) !important;
 }
 
+.vfrc-launcher {
+  width: var(--sizes-xl)*0.95 !important;
+  height: var(--sizes-xl)*0.95 !important;
+}
+
 .vfrc-launcher img {
   width: 50px !important;
   height: 50px !important;
