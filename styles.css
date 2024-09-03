@@ -1,11 +1,11 @@
 .vfrc-launcher, .vfrc-proactive-message {
-  background-color: white !important;
   box-shadow: 4px 2px 5px rgba(0, 0, 0, 0.3) !important;
 }
 
 .vfrc-launcher {
   width: var(--sizes-xl)*0.95 !important;
   height: var(--sizes-xl)*0.95 !important;
+  background-color: blue !important;
 }
 
 .vfrc-launcher img {
