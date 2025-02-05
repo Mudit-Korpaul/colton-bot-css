@@ -12,3 +12,7 @@
   width: 50px !important;
   height: 50px !important;
 }
+
+.vfrc-widget {
+  z-index: 99
+}
